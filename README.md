@@ -15,4 +15,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 One of my referenced video: https://youtu.be/G6D9cBaLViA?si=yC7MMiWJW0C_SFff
 
-Stay good practice on reading documentation, AI tools to resolve knowledge issues
+Stay good practice on reading documentation, AI tools to resolve knowledge issues💪💪
