@@ -1,0 +1,4 @@
+In this lession, we have learned
+
+1. state (which is inistate), when a value is changed, the component will re-render. By using "useEffect()" method
+2. Routes, which provide pagination in react by installing "npm install react-router-dom". After that setup in main.jsx (Browser Router) and app.jsx (Route)
